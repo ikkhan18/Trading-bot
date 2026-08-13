@@ -4,7 +4,6 @@
 //|  Trend (EMA 21/55/200) + ADX + RSI pullback + MACD + ATR risk    |
 //+------------------------------------------------------------------+
 #property copyright "Trend Confluence EA"
-#property link      "https://github.com/ikkhan18/Trading-bot"
 #property version   "1.00"
 #property description "Trend-following auto trader: EMA regime, ADX strength, RSI pullback, MACD momentum, ATR risk."
 #property strict

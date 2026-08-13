@@ -1,5 +1,7 @@
 # Trading bot (MT4 / MT5)
 
+Runs **only inside MetaTrader** on your computer. No GitHub account, no website login, and no online connection is required for the Expert Advisor itself.
+
 Auto-trading **Expert Advisor** for MetaTrader 4 and MetaTrader 5. It trades **with the trend**, waits for a **pullback**, then enters with ATR-based stops and position sizing.
 
 This is not financial advice. No indicator mix is profitable in every market. Always **backtest**, then run on a **demo account**, before any live money.
